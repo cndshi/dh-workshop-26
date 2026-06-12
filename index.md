@@ -12,6 +12,8 @@ Welcome to Hamilton Library's Digital Scholarship Fall 26 workshop series! This 
 
 ## Workshop Sessions
 
+Text Mining
+
 Podcasting
 
 Digital Exhibits / Mapping
